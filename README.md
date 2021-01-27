@@ -1,4 +1,4 @@
-# String strength indicator
+# String similarity strength indicator
 ### longest common substring
 
 Checks for similarity between two strings.
